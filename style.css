@@ -110,6 +110,8 @@ button{
 .quote{
  background-color: #E5E7EB;
  padding: 48px;
+ margin-bottom: 90px;
+ margin-top: 120px;
 }
 .qu{
  color: #1F2937;
@@ -125,3 +127,54 @@ h3{
  margin-top: 0;
  font-size: 22px;
 }
+.section-three{
+ padding: 100px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+ 
+}
+.rectangle{
+ background-color: rgb(88, 136, 242);
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ color: white;
+ font-size: 20px;
+ border-radius: 20px;
+ padding: 32px;
+ flex-grow: 1;
+ margin-left:200px;
+ margin-right: 200px;
+ margin-top: 0px;
+ flex-shrink: 0;
+ 
+ 
+
+ 
+}
+
+.footer{
+ background-color: #1F2937;
+ padding: 30px;
+}
+.bottom{
+ text-align: center;
+}
+.butoon{
+ color: #E5E7EB;
+ font-weight: bolder;
+ width:30%;
+ height: 32px;
+ font-size: 16px;
+ text-align: center;
+ /* border-radius: 15px;
+ border: 2px solid #E5E7EB; */
+}
+.one{
+ font-size: 23px;
+ color: #E5E7EB;
+ font-weight: bolder;
+}
+
