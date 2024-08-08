@@ -165,16 +165,18 @@ h3{
 .butoon{
  color: #E5E7EB;
  font-weight: bolder;
- width:30%;
- height: 32px;
- font-size: 16px;
+ width:94px;
+ height: 30px;
+ font-size: 20px;
  text-align: center;
- /* border-radius: 15px;
- border: 2px solid #E5E7EB; */
+ border-radius: 15px;
+ border: 2px solid #E5E7EB;
 }
 .one{
  font-size: 23px;
  color: #E5E7EB;
  font-weight: bolder;
 }
-
+.sign{
+ margin-top: 4px;
+}
